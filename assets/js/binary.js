@@ -1,5 +1,5 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.12.46/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.0","target":"arcade","targetVersion":"1.12.46"}
-// total=1805468 new=4.79% cached=90.09% other=5.13%
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.12.46/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"0.0.1","target":"arcade","targetVersion":"1.12.46","repo":"raulmk/raul_molina_conversor_unidades"}
+// total=1805475 new=4.79% cached=90.09% other=5.13%
 (function (ectx) {
 'use strict';
 const runtime = ectx.runtime;
@@ -27,7 +27,7 @@ const __this = runtime;
 const pxtrt = pxsim.pxtrt;
 let yieldSteps = 1;
 ectx.setupYield(function() { yieldSteps = 100; })
-pxsim.setTitle("conversor_unidades");
+pxsim.setTitle("conversor_unidades - Copy");
 pxsim.setConfigData({
  "37": 160,
  "38": 120
